@@ -1,0 +1,23 @@
+# Compiler Output #
+###################
+*.py[cod]
+*.so
+*.o
+*.exe
+*.class
+
+# Folders #
+###########
+bin/
+build/
+dist/
+local/
+__pycache__/
+*.egg-info/
+.ipynb_checkpoints/
+
+# Junk #
+########
+.DS_Store*
+.*.swp
+*.swp
